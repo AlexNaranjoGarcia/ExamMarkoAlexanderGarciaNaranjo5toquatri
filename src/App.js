@@ -1,9 +1,9 @@
 import profile from './profile.png';
 import './App.css';
 
-function App() {
+function Exam() {
   return (
-    <div className="App">
+    <div className="Exam">
       <header className="App-header">
         <img src={profile} className="App-logo" alt="logo" />
         <p>
@@ -11,15 +11,24 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="www.utd.edu.mx"
+          href="https://mx.linkedin.com/in/gustavo-sánchez-ortiz-9067483a0"
           target="_blank"
           rel="noopener noreferrer"
         >
-          LINK UTD
+          LINK A PERFIL DE LINKEDIN
+        </a>
+        <br></br>
+        <a
+          className="App-link"
+          href="https://www.medikt.com.mx/practicas/documentacion.html"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          DOCUMENTACION PARCIAL 1
         </a>
       </header>
     </div>
   );
 }
 
-export default App;
+export default Exam;
