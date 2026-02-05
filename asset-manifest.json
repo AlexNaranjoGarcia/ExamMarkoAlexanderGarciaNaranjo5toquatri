@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/ExamMarkoAlexanderGarciaNaranjo5toquatri/static/css/main.e298bdf7.css",
-    "main.js": "/ExamMarkoAlexanderGarciaNaranjo5toquatri/static/js/main.d2737f52.js",
+    "main.js": "/ExamMarkoAlexanderGarciaNaranjo5toquatri/static/js/main.25212be9.js",
     "static/js/453.128479b3.chunk.js": "/ExamMarkoAlexanderGarciaNaranjo5toquatri/static/js/453.128479b3.chunk.js",
     "static/media/profile.png": "/ExamMarkoAlexanderGarciaNaranjo5toquatri/static/media/profile.7db752d0208a07f292d6.png",
     "index.html": "/ExamMarkoAlexanderGarciaNaranjo5toquatri/index.html",
     "main.e298bdf7.css.map": "/ExamMarkoAlexanderGarciaNaranjo5toquatri/static/css/main.e298bdf7.css.map",
-    "main.d2737f52.js.map": "/ExamMarkoAlexanderGarciaNaranjo5toquatri/static/js/main.d2737f52.js.map",
+    "main.25212be9.js.map": "/ExamMarkoAlexanderGarciaNaranjo5toquatri/static/js/main.25212be9.js.map",
     "453.128479b3.chunk.js.map": "/ExamMarkoAlexanderGarciaNaranjo5toquatri/static/js/453.128479b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e298bdf7.css",
-    "static/js/main.d2737f52.js"
+    "static/js/main.25212be9.js"
   ]
 }
